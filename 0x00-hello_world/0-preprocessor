@@ -1,2 +1,8 @@
 #!/bin/bash
 gcc -E $CFILE -o c
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 673df5e58a7ad3293a67cbe945b4c64ac715e2e3
